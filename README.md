@@ -1,6 +1,6 @@
 # Boris Bikes Graduate
 
-This version of Boris Bikes was completed after I graduated from Makers Academy in the role of an alumni helper to better understand how I could help and mentor the students completing it.
+This version of Boris Bikes was completed after I graduated from Makers Academy in the role of an alumni helper, to better understand how I could help and mentor the students completing it.
 
 ### BDD and OOD Basics: Boris Bikes
 
