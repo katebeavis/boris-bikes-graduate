@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/katebeavis/boris-bikes-graduate/badges/gpa.svg)](https://codeclimate.com/github/katebeavis/boris-bikes-graduate)
 # Boris Bikes Graduate
 
 This version of Boris Bikes was completed after I graduated from Makers Academy in the role of an alumni helper, to better understand how I could help and mentor the students completing it.
